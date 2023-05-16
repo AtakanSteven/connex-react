@@ -10,6 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.\
-If the backend and frontend ports are the same, please follow the instructions
+If the backend and frontend ports are the same, please follow the instructions. \
+See `src/App.js`.
 
 The page will reload when you make changes.
